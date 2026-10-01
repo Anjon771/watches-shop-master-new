@@ -1,0 +1,71 @@
+/* css resets */
+*{
+	box-sizing: border-box;
+}
+h1{
+	margin: 0px;
+}
+p{
+	margin: 0px;
+}
+body{
+	margin: 0;
+}
+
+/* navbar */
+.nav{
+	padding-top: 15px;
+	padding-bottom: 10px;
+	text-align: center;
+	width: 100%;
+	background-color: yellow;
+}
+.nav li{
+	display: inline-block;
+	text-decoration: none;
+	padding: 5px;
+}
+.nav li a{
+	text-decoration: none;
+}
+
+/* end navbar */
+
+
+
+form{
+	text-align: end;
+}
+
+footer{
+	background-color:PaleVioletRed;
+}
+
+.center{
+	text-align: center;
+}
+
+.home-card{
+	display: inline-block;
+	margin: 50px;
+	padding: 0px 0px 100px 0px;
+}
+
+
+.Slides{
+	width: 50%;
+	height: auto;
+}
+
+#cardContainer{
+}
+
+#slides{
+	vertical-align: middle;
+}
+
+#aboutUs{
+	background-color: #4285f4!important;
+	color: white;
+	margin: 0px;
+}
